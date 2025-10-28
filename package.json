@@ -1,0 +1,24 @@
+{
+  "name": "tasks-app",
+  "version": "1.0.0",
+  "description": "task app has to do with todo list, day to day listing of jobs or tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karyordey20/tasks-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karyordey20/tasks-app/issues"
+  },
+  "homepage": "https://github.com/Karyordey20/tasks-app#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "typescript": "^5.9.3"
+  }
+}
